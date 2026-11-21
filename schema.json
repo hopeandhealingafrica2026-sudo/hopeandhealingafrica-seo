@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NGO",
+  "name": "Hope and Healing Africa - Ruhuka Umutima",
+  "alternateName": "HHA-RU",
+  "url": "https://hopeandhealingafrica.com",
+  "email": "hopeandhealingafrica2026@gmail.com",
+  "description": "Community-based organization promoting trauma healing, counseling, digital skills, youth empowerment and women's economic development in Rwanda and Uganda.",
+  "founder": {
+    "@type": "Person",
+    "name": "Rev. NGWABIJE Sylvestre",
+    "jobTitle": "Founder"
+  },
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Kabarore, Gatsibo, Rwanda"
+  },
+  "areaServed": ["Rwanda", "Uganda"],
+  "knowsAbout": ["Trauma Healing", "Counseling", "Digital Skills", "Youth Empowerment", "Women Economic Development"],
+  "sameAs": [
+    "https://coderbc.netlify.app",
+    "https://nzozicommunity.netlify.app",
+    "https://nzozi_pure_blend.github.io",
+    "https://hopedigitalmobilitytech.netlify.app"
+  ]
+}
