@@ -1,5 +1,5 @@
 # Hope and Healing Africa - Ruhuka Umutima - SEO
-
+Founder: Rev. NGWABIJE Sylvestre
 Hope and Healing Africa – Ruhuka Umutima (HHA-RU) is a community-based organization promoting trauma healing, counseling, digital skills, youth empowerment and women's economic development in Rwanda and Uganda.
 
 Origin: Kabarore, Gatsibo, Rwanda
